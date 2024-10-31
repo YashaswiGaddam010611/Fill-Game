@@ -23,6 +23,7 @@ Navigate up, down, left, or right to fill cells, but avoid OBSTACLE cells.
 **✨ Features**
 
 Pre-made, Solvable Grids: Each grid has a solution, testing your pathfinding skills.
+
 **Cell Types:**
 
     EMPTY: Cells to fill
