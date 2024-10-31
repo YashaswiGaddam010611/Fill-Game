@@ -4,7 +4,7 @@
 
 **GitHub:** YashaswiGaddam010611
 
-LinkedIn: [Yashaswi Gaddam](https://www.linkedin.com/in/yashaswi-gaddam-576413267/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUvFE%2BSuFQOa3K2ZpEnlcJg%3D%3D)
+**LinkedIn:** [Yashaswi Gaddam](https://www.linkedin.com/in/yashaswi-gaddam-576413267/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUvFE%2BSuFQOa3K2ZpEnlcJg%3D%3D)
 
 ==================================================
 
