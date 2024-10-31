@@ -1,9 +1,9 @@
 **👤 Author**
-Name: Gaddam Yashaswi
-GitHub: YashaswiGaddam010611
+**Name:** Gaddam Yashaswi
+**GitHub:** YashaswiGaddam010611
 LinkedIn: [Yashaswi Gaddam](https://www.linkedin.com/in/yashaswi-gaddam-576413267/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUvFE%2BSuFQOa3K2ZpEnlcJg%3D%3D)
 
-==================================================================================================================
+==================================================
 Grid-Based Puzzle Game
 A React-based puzzle game where players navigate a grid to turn all EMPTY cells into FILLED ones while avoiding obstacles.
 
@@ -25,7 +25,7 @@ Pre-made, Solvable Grids: Each grid has a solution, testing your pathfinding ski
 **Frontend:** React, JavaScript
 **State Management:** React state to manage grid data
 
-==================================================================================================
+==================================================
 
 **🚀 Getting Started**
 **Clone the repository:**
